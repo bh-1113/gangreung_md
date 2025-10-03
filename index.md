@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: GangReung 여행 블로그
 ---
 
