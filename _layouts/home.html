@@ -1,0 +1,5 @@
+<div class="home">
+  {{ content }}   <!-- index.md 본문 출력 -->
+  <h2>📌 최신 글</h2>
+  {{ content | default: site.posts }}
+</div>
