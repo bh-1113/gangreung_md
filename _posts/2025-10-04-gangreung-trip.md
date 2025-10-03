@@ -5,7 +5,6 @@ categories: 여행
 tags: [강릉, 맛집, 커피거리]
 ---
 
-# 🌊 강릉 여행기: 바다와 맛의 도시에서 보낸 하루  
 _“파도 소리와 커피 향이 어우러진 도시, 강릉에서의 하루”_
 
 ## 📸 썸네일 문구 추천  
@@ -24,16 +23,16 @@ _“파도 소리와 커피 향이 어우러진 도시, 강릉에서의 하루�
 
 ## 🌅 강릉의 명소들
 
-- 📍 [경포대](https://map.naver.com/v5/entry/place/13493986): 해돋이 명소, 벚꽃 시즌엔 환상적인 풍경
-- 🎨 [아르떼뮤지엄](https://artemuseum.com/gangneung/): 빛과 소리로 가득한 미디어 아트 전시관
+- 📍 [경포대](https://map.naver.com/v5/entry/place/13493986): 해돋이 명소, 벚꽃 시즌엔 환상적인 풍경  
+- 🎨 [아르떼뮤지엄](https://artemuseum.com/gangneung/): 빛과 소리로 가득한 미디어 아트 전시관  
 - ☕ [안목해변 커피거리](https://map.naver.com/v5/entry/place/13493986): 바다를 바라보며 커피를 즐길 수 있는 감성 스팟
 
 ## 🍽 강릉 맛집 추천
 
-- 🥢 [동화가든](https://map.naver.com/v5/entry/place/13493986): 초당순두부와 짬뽕의 조합
-- 🍜 [원조강릉교동반점](https://map.naver.com/v5/entry/place/13493986): 전국 5대 짬뽕 중 하나
-- 🐚 [엄지네포장마차](https://map.naver.com/v5/entry/place/13493986): 꼬막비빔밥과 육사시미
-- 🐟 [해미가](https://map.naver.com/v5/entry/place/13493986): 광어회 물회 전문점
+- 🥢 [동화가든](https://map.naver.com/v5/entry/place/13493986): 초당순두부와 짬뽕의 조합  
+- 🍜 [원조강릉교동반점](https://map.naver.com/v5/entry/place/13493986): 전국 5대 짬뽕 중 하나  
+- 🐚 [엄지네포장마차](https://map.naver.com/v5/entry/place/13493986): 꼬막비빔밥과 육사시미  
+- 🐟 [해미가](https://map.naver.com/v5/entry/place/13493986): 광어회 물회 전문점  
 - 🫘 [정은숙초당순두부](https://m.blog.naver.com/sun_ovo/223910154987): 초당 명품밥상과 두부전골
 
 ## 🎒 여행 팁
