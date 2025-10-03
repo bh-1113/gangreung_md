@@ -1,6 +1,6 @@
 ---
 layout: home
-title: GangReung
+title: 홈
 ---
 
 # 🌊 하루 여행 코스
