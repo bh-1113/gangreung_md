@@ -3,6 +3,7 @@ title: "강릉 여행기: 바다와 맛의 도시에서 보낸 하루"
 date: 2025-10-04
 categories: 여행
 tags: [강릉, 맛집, 커피거리]
+layout: post
 ---
 
 _“파도 소리와 커피 향이 어우러진 도시, 강릉에서의 하루”_
@@ -19,7 +20,7 @@ _“파도 소리와 커피 향이 어우러진 도시, 강릉에서의 하루�
 | 오전 11시 | [아르떼뮤지엄](https://artemuseum.com/gangneung/) | 몰입형 미디어 아트로 감성 충전 |
 | 오후 1시 | [동화가든](https://map.naver.com/v5/entry/place/13493986) | 초당짬뽕순두부로 든든한 점심 |
 | 오후 2시 | [안목해변 커피거리](https://map.naver.com/v5/entry/place/13493986) | 바다 보며 커피 한 잔, 감성 카페 투어 |
-| 오후 4시 | [엄지네포장마차](https://map.naver.com/v5/entry/place/13493986) | 꼬막비빔밥과 육사시미로 저녁까지 완벽 |
+| 오후 4시 | [엄지네포장마차](https://map.naver.com/v5/entry/place/13493986) | 꼬막비빔밥과 육사시미로 저녁까지 완벽
 
 ## 🌅 강릉의 명소들
 
